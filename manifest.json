@@ -1,0 +1,19 @@
+{
+  "name": "Prime Casino",
+  "short_name": "Prime Casino",
+  "theme_color": "",
+  "background_color": "#FEFEFE",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1779270557-favicon-17.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
